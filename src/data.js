@@ -80,6 +80,56 @@ export const data = {
             src: './assets/item-10.jpeg',
             desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
         },
+        {
+            id: 11,
+            title: 'beer',
+            category: 'dinner',
+            price: 5.99,
+            src: './assets/item-11.jpg',
+            desc: `Enjoy a cold beer with your evening meal.`,
+        },
+        {
+            id: 12,
+            title: 'iced tea',
+            category: 'lunch',
+            price: 3.99,
+            src: './assets/item-12.jpg',
+            desc: `Quench your thirst with our refreshing iced tea.`,
+        },
+        {
+            id: 13,
+            title: 'soda',
+            category: 'lunch',
+            price: 2.99,
+            src: './assets/item-13.jpg',
+            desc: `Enjoy a fizzy soda with your meal.`,
+        },
+        
+        {
+            id: 14,
+            title: 'wine',
+            category: 'dinner',
+            price: 9.99,
+            src: './assets/item-14.jpg',
+            desc: `Pair your dinner with our selection of fine wines.`,
+        },
+        {
+            id: 15,
+            title: 'morning coffee',
+            category: 'breakfast',
+            price: 4.99,
+            src: './assets/item-15.jpg',
+            desc: `Wake up with our freshly brewed coffee.`,
+        },
+        {
+            id: 16,
+            title: 'green tea',
+            category: 'breakfast',
+            price: 3.99,
+            src: './assets/item-16.jpg',
+            desc: `Enjoy a calming cup of green tea.`,
+        },
+       
     ],
     buttons: [
         {
@@ -102,6 +152,7 @@ export const data = {
             id: 'dinner',
             text: 'Dinner',
         },
+        
     ],
 };
 
