@@ -48,7 +48,7 @@ through GitHub.
 
 ## Authors
 
-- Jean [Felix Nibishaka] - [https://github.com/nibishakajean]
+- JeanFelix Nibishaka] - [https://github.com/nibishakajean]
 
 ## License
 
