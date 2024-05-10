@@ -11,6 +11,7 @@ Variables
 ===============
 */
 
+
 :root {
     /* dark shades of primary color*/
     --clr-primary-1: hsl(205, 86%, 17%);
@@ -36,8 +37,8 @@ Variables
     --clr-grey-7: hsl(211, 27%, 70%);
     --clr-grey-8: hsl(210, 31%, 80%);
     --clr-grey-9: hsl(212, 33%, 89%);
-    --clr-grey-10: hsl(210, 36%, 96%);
-    --clr-white: #fff;
+    --clr-grey-10: hsl(203, 6%, 26%);
+    --clr-white: #ece2e2;
     --clr-red-dark: hsl(360, 67%, 44%);
     --clr-red-light: hsl(360, 71%, 66%);
     --clr-green-dark: hsl(125, 67%, 44%);
@@ -173,7 +174,7 @@ Menu
 */
 
 .menu {
-    padding: 5rem 0;
+    padding: 0;
 }
 .title {
     text-align: center;
@@ -266,3 +267,44 @@ Menu
         height: 150px;
     }
 }
+
+
+
+
+/* start of nav css*/
+.sectionOne{
+    background: var(--clr-grey-5);
+    margin-top: 0px;
+    padding: 0%;
+    
+  }
+  
+  .logo img {
+    width: 50px; /* Adjust size as needed */
+    margin-left: 40px;
+    margin-top: 0px;
+    border-radius: 50%;
+    padding-top: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    margin-left: 900px;
+    margin-top: 5px;
+    padding-top: 2px;
+  }
+  
+  nav ul li {
+    margin-right: 20px; /* Adjust spacing */
+  }
+  .sectionOne h4{
+    color: rgb(13, 238, 81);
+    margin-left: 200px;
+    font-size: 50px;
+    font-style: italic;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+/**end of nav css/
